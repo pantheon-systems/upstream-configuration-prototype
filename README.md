@@ -1,6 +1,8 @@
 Upstream Configuration Prototype
 ================================
 
+[![Deprecated](https://img.shields.io/badge/Pantheon-Deprecated-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#deprecated)
+
 This project is a prototype that demonstrates storing dependencies for a
 hypothetical upstream as an external project.
 
